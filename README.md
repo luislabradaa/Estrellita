@@ -55,7 +55,11 @@ Reducir el tiempo de presencia del cuidado del bebé cuando sea necesario para a
 ## Historias de Usuario
 | Id | Historia de usuario | Prioridad | Estimación | Cómo probarlo | Responsable | Sprint |
 |----|---------------------|-----------|------------|---------------|-------------|--------|
-|HU01|Yo como taquero quiero que el mandil me alerte mediante un sonido cuando este se esté comenzando a incendiar, para poder tomar acciones inmediatas y que el resto de los cocineros pueda darse cuenta y ayudarme, pues siempre estoy muy ocupado y algunas veces no detecto el fuego hasta que este ya se ha extendido en la mayoría del mandil.|Debe| 1 |Se enciende una llama a 5 cm del sensor y el buzzer debe emitir un sonido|Paola Patlán|1|
+|HU01|Yo como padre/madre de familia quiero que el dispositivo me alerte mediante vibración y un mensaje en una pantalla cuando mi bebé comience a llorar además de que reproduzca una pequeña canción, para poder tomar acciones inmediatas e ir a cuidarlo.|Debe| 1 semana|Se aumenta el ruido para que sea detectado por el sensor de sonido simulando los llantos del bebé.|Paola Patlán|1|
+|HU02|Yo como padre/madre de familia quiero que el cuando el dispositivo obtenga una temperatura muy alta encienda un ventilador para disminuir la temperatura dónde se encuentra el bebé.|Debe|Estimación|Cómo probarlo|Paola Patlán|1|
+|HU03|Yo como padre/madre de familia quiero que el dispositivo detecte cuando no hay luz dentro del espacio en dónde se encuentre el bebé encienda un led RGB automaticamente y cuando se detecte luz este mismo se apague.|Debe|Estimación|Cómo probarlo|Paola Patlán|1|
+|HU04|Yo como padre/madre de familia quiero que el dispositivo|Debe|Estimación|Cómo probarlo|Paola Patlán|1|
+|HU05|Yo como padre/madre de familia quiero que el dispositivo|Debe|Estimación|Cómo probarlo|Paola Patlán|1|
 
 ## Prototipo en 3D
 - Imagen de prototipo realizado en tinkercad
