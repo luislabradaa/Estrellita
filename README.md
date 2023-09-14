@@ -83,7 +83,9 @@ Reducir el tiempo de presencia del cuidado del bebé cuando sea necesario para a
 
 ## Dashboard
 Imagen del Dashboard
-![image](https://github.com/luislabradaa/Estrellita/assets/90641538/343610f5-b209-44c1-add0-600f1bc47bf9)
+
+![Captura de pantalla 2023-09-14 010501](https://github.com/luislabradaa/Estrellita/assets/90641538/8e3900de-7e6c-415d-ab30-5a58d85eda68)
+
 
 Imagen Flow Sensores
 ![image](https://github.com/luislabradaa/Estrellita/assets/90641538/29bd9e84-adce-4311-ac10-3488f56a28dc)
@@ -93,7 +95,12 @@ Imagen Flow Sensores
 ![image](https://github.com/luislabradaa/Estrellita/assets/90641538/c1433c61-784c-4215-9fb4-b32a1e6e1b5c)
 
 
-## Carta de aceptación del proyecto firmada por la beneficiaria
+## Base de datos
+![Captura de pantalla 2023-09-14 010549](https://github.com/luislabradaa/Estrellita/assets/90641538/165f861e-0480-445b-9336-acdb7dfeeda6)
+![Captura de pantalla 2023-09-14 010614](https://github.com/luislabradaa/Estrellita/assets/90641538/fed12521-9bb0-4738-821f-a6084ec4b97c)
+![Captura de pantalla 2023-09-14 010636](https://github.com/luislabradaa/Estrellita/assets/90641538/10149dc7-96c5-45f3-893f-c9565f79fe5f)
+![Captura de pantalla 2023-09-14 010718](https://github.com/luislabradaa/Estrellita/assets/90641538/6a739e38-a1f6-4886-b6f1-838d98f3ebd4)
+
 
 
 ## Vídeo de aceptación del proyecto
@@ -101,8 +108,8 @@ https://drive.google.com/drive/folders/1aOeRXayFSYUcEOAP_wzgh2uQOgjxH_3y?usp=sha
 
 ## Código fuente
 
-Funcionamiento de los sensores:                   
-Funcionamiento de la oled:     
+Funcionamiento de los sensores: https://github.com/luislabradaa/Estrellita/blob/main/estrellita.py                 
+Funcionamiento de la oled:  https://github.com/luislabradaa/Estrellita/blob/main/oled.py  
 Flow en Node Red:      
 
 
