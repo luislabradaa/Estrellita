@@ -72,6 +72,9 @@ Reducir el tiempo de presencia del cuidado del bebé cuando sea necesario para a
 ![Mari_XD_pcb](https://github.com/luislabradaa/Estrellita/assets/80784527/7ab7bcf6-bad2-44d8-a26c-d104a40e388f)
 
 ## Imagen del proyecto físico 
+![Imagen de WhatsApp 2023-09-14 a las 16 07 06](https://github.com/luislabradaa/Estrellita/assets/87114168/7d56689b-b6b7-403f-be7f-7645088a1823)
+![Imagen de WhatsApp 2023-09-14 a las 16 07 07](https://github.com/luislabradaa/Estrellita/assets/87114168/d6f4b025-cd5d-4fb4-91bc-6948c8fac00c)
+![Imagen de WhatsApp 2023-09-14 a las 16 07 07](https://github.com/luislabradaa/Estrellita/assets/87114168/192572a4-839c-46d5-84b1-4f10ff507a13)
 
 
 ## Dashboard
