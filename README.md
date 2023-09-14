@@ -19,8 +19,7 @@ Reducir el tiempo de presencia del cuidado del bebé cuando sea necesario para a
 ## Componentes empleados
 | No. | Componente | Descripción | Img | Costo | Cantidad |
 |-----|------------|-------------|-----|-------|----------|
-|1| Sensor de temperatura| Modulo DHT011 Sensor De Temperatura |![image](https://github.com/luislabradaa/Estrellita/assets/87044535/bec32315-c594-4a58-ba6f-92a03ca8999b)
-|$50| 1|
+|1| Sensor de temperatura| Modulo DHT011 Sensor De Temperatura |![image](https://github.com/luislabradaa/Estrellita/assets/87044535/bec32315-c594-4a58-ba6f-92a03ca8999b)|$50| 1|
 |2| Fotoresistencia| Es una resistencia eléctrica la cual varía su valor en función de la cantidad de luz que incide sobre su superficie. |![image](https://github.com/luislabradaa/Estrellita/assets/87114168/9cd5b44f-3fc9-4c70-8bbb-f9a1b1ad4611)|$15| 1|
 |3| Sensor de Sonido KY-038|El modulo KY-038 es un sensor analógico y/o digital de sonido, diseñado para proyectos y circuitos elaborados con Arduino. Cuenta con un micrófono de condensador omnidireccional de alta sensibilidad, que permite detectar con precisión hasta sonidos de muy baja intensidad.|<img src="https://github.com/maramendoza692/ProjectVetSafeC3000/assets/87044535/189d82ce-1657-404d-80fb-8bc0b2f85f02" width= "200px"/>|Donación|1|
 |4| Buzzer| Altavoz que permite convertir una señal eléctrica en una onda de sonido |<img src="https://github.com/maramendoza692/ProjectVetSafeC3000/assets/90641538/8971c075-c206-46ee-b3ac-b7f5571011f7" width= "200px"/> |$47| 2|
