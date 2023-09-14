@@ -55,11 +55,16 @@ Reducir el tiempo de presencia del cuidado del bebé cuando sea necesario para a
 ## Historias de Usuario
 | Id | Historia de usuario | Prioridad | Estimación | Cómo probarlo | Responsable | Sprint |
 |----|---------------------|-----------|------------|---------------|-------------|--------|
-|HU01|Yo como padre/madre de familia quiero que el dispositivo me alerte mediante vibración y un mensaje en una pantalla cuando mi bebé comience a llorar además de que reproduzca una pequeña canción, para poder tomar acciones inmediatas e ir a cuidarlo.|Debe| 1 semana|Se aumenta el ruido para que sea detectado por el sensor de sonido simulando los llantos del bebé.|Paola Patlán|1|
-|HU02|Yo como padre/madre de familia quiero que el cuando el dispositivo obtenga una temperatura muy alta encienda un ventilador para disminuir la temperatura dónde se encuentra el bebé.|Debe|Estimación|Cómo probarlo|Paola Patlán|1|
-|HU03|Yo como padre/madre de familia quiero que el dispositivo detecte cuando no hay luz dentro del espacio en dónde se encuentre el bebé encienda un led RGB automaticamente y cuando se detecte luz este mismo se apague.|Debe|Estimación|Cómo probarlo|Paola Patlán|1|
-|HU04|Yo como padre/madre de familia quiero que el dispositivo|Debe|Estimación|Cómo probarlo|Paola Patlán|1|
-|HU05|Yo como padre/madre de familia quiero que el dispositivo|Debe|Estimación|Cómo probarlo|Paola Patlán|1|
+|HU01|Yo como padre/madre de familia quiero que el dispositivo me alerte mediante vibración y un mensaje en una pantalla cuando mi bebé comience a llorar, para poder tomar acciones inmediatas e ir a cuidarlo.|Debe| 3 puntos de esfuerzo|Se aumenta el ruido para que sea detectado por el sensor de sonido simulando los llantos del bebé.|Paola Patlán|1|
+|HU02|Yo como padre/madre de familia quiero que el cuando el bebé comience a llorar se reproduzca una canción de cuna para que no se sienta solo y pueda tranquilizarse..|Debe|2 puntos de esfuerzo|Cómo probarlo|María Mendoza|1|
+|HU03|Yo como padre/madre de familia quiero que el cuando el dispositivo obtenga una temperatura muy alta encienda un ventilador para disminuir la temperatura dónde se encuentra el bebé.|Debe|2 puntos de esfuerzo|Cómo probarlo|María Mendoza|1|
+|HU04|Yo como padre/madre de familia quiero que el dispositivo detecte cuando no hay luz dentro del espacio en dónde se encuentre el bebé encienda un led RGB automaticamente y cuando se detecte luz este mismo se apague.|Debe|1 punto de esfuerzo|Apagar la luz para que se encienda el led|Juan Negrete|1|
+|HU05|Yo como padre/madre de familia quiero poder encender el ventilador cuando yo desee a través de un dashboard|Debe|2 puntos de esfuerzo|Presionar el switch en el dashboard y observar que el ventilador enciende.|Pedro Martínez|1|
+|HU06|Yo como padre/madre de familia quiero poder encender el led rgb cuando yo desee a través de un dashboard|Debe|2 puntos|Presionar el switch en el dashboard y observar que el led enciende.|Paola Patlán|1|
+|HU07|Yo como padre/madre de familia quiero poder reproducir la canción cuando yo desee a través de un dashboard|Debe|2 puntos|Presionar el switch en el dashboard y escuchar que la canción se reproduce.|Juan Negrete|1|
+|HU08|Yo como padre/madre de familia quiero poder visualizar de manera gráfica el valor de la temperatura en un dashboard y en la pantalla de mi pulsera|Debe|2 puntos|Presionar el switch en el dashboard y escuchar que la canción se reproduce.|Paola Patlán|1|
+
+1 punto de esfuerzo equivale a enviar el valor de un sensor mediante mqtt.
 
 ## Prototipo en 3D
 - Imagen de prototipo realizado en tinkercad
@@ -71,10 +76,7 @@ Reducir el tiempo de presencia del cuidado del bebé cuando sea necesario para a
 ## Imagen del proyecto físico 
 
 
-## Aplicación web
-
-
-## Dashboard en Grafana
+## Dashboard
 
 
 ## Carta de aceptación del proyecto firmada por la beneficiaria
@@ -85,10 +87,9 @@ Reducir el tiempo de presencia del cuidado del bebé cuando sea necesario para a
 
 ## Código fuente
 
-Funcionamiento de los sensores: https://github.com/maramendoza692/ProjectVetSafeC3000/blob/main/SENSORES.py                  
-Funcionamiento de la oled para visualizar pedidos: https://github.com/maramendoza692/ProjectVetSafeC3000/blob/main/PEDIDOS.py        
-Flow del crud de la aplicación web: https://github.com/maramendoza692/ProjectVetSafeC3000/blob/main/CRUD%20%20Tacomandi.json      
-Flow del broker mqtt: https://github.com/maramendoza692/ProjectVetSafeC3000/blob/main/SENSORES%20Tacomandi.json         
+Funcionamiento de los sensores:                   
+Funcionamiento de la oled:     
+Flow en Node Red:      
 
 
 
