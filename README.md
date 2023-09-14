@@ -79,6 +79,15 @@ Reducir el tiempo de presencia del cuidado del bebé cuando sea necesario para a
 
 
 ## Dashboard
+Imagen del Dashboard
+![image](https://github.com/luislabradaa/Estrellita/assets/90641538/343610f5-b209-44c1-add0-600f1bc47bf9)
+
+Imagen Flow Sensores
+![image](https://github.com/luislabradaa/Estrellita/assets/90641538/29bd9e84-adce-4311-ac10-3488f56a28dc)
+
+![image](https://github.com/luislabradaa/Estrellita/assets/90641538/1b3e4524-89bf-4533-9816-4e575ead5680)
+
+![image](https://github.com/luislabradaa/Estrellita/assets/90641538/c1433c61-784c-4215-9fb4-b32a1e6e1b5c)
 
 
 ## Carta de aceptación del proyecto firmada por la beneficiaria
