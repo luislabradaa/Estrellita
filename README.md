@@ -71,7 +71,9 @@ Reducir el tiempo de presencia del cuidado del bebé cuando sea necesario para a
 
 
 ## Circuito en Fritzing y PCB
+![Mari_XD_bb](https://github.com/luislabradaa/Estrellita/assets/80784527/03977302-fada-464d-9230-ebfc04ef933e)
 
+![Mari_XD_pcb](https://github.com/luislabradaa/Estrellita/assets/80784527/7ab7bcf6-bad2-44d8-a26c-d104a40e388f)
 
 ## Imagen del proyecto físico 
 
