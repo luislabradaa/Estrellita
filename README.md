@@ -66,10 +66,6 @@ Reducir el tiempo de presencia del cuidado del bebé cuando sea necesario para a
 
 1 punto de esfuerzo equivale a enviar el valor de un sensor mediante mqtt.
 
-## Prototipo en 3D
-- Imagen de prototipo realizado en tinkercad
-
-
 ## Circuito en Fritzing y PCB
 ![Mari_XD_bb](https://github.com/luislabradaa/Estrellita/assets/80784527/03977302-fada-464d-9230-ebfc04ef933e)
 
